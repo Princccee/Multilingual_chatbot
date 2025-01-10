@@ -29,23 +29,20 @@ To get started with Saarthi, follow these steps:
 
 To run the chatbot, execute the following command:
 ```bash
-streamlit run app.py
+streamlit run chatbot_main.py
 ```
 
 ## Streamlit Home Page
 
 Below is an image of the Streamlit home page for Saarthi:
 
-![Streamlit Home Page](path_to_your_image.png)
+![Streamlit Home Page](home .png)
 
 ## Contributing
 
 We welcome contributions to Saarthi! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact us at [princceekumar07@gmail.com](mailto:your-email@example.com).
