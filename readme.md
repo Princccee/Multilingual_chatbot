@@ -2,6 +2,12 @@
 
 Saarthi is a multilingual conversational chatbot built using Gemini and Google Translate. This project aims to provide seamless communication across different languages, making it easier for users to interact with the chatbot in their preferred language.
 
+## Streamlit Home Page
+
+Below is an image of the Streamlit home page for Saarthi:
+
+![Streamlit Home Page](home.png)
+
 ## Features
 
 - **Multilingual Support**: Communicate in multiple languages using Google Translate.
@@ -32,11 +38,11 @@ To run the chatbot, execute the following command:
 streamlit run chatbot_main.py
 ```
 
-## Streamlit Home Page
+<!-- ## Streamlit Home Page
 
 Below is an image of the Streamlit home page for Saarthi:
 
-![Streamlit Home Page](home.png)
+![Streamlit Home Page](home.png) -->
 
 ## Contributing
 
