@@ -36,7 +36,7 @@ streamlit run chatbot_main.py
 
 Below is an image of the Streamlit home page for Saarthi:
 
-![Streamlit Home Page](home .png)
+![Streamlit Home Page](home.png)
 
 ## Contributing
 
